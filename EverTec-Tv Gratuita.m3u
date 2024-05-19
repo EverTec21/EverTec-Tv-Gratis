@@ -1,8 +1,33 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="CANAIS 24 HORAS",24H Bob Esponja 01
-http://cdn.topk.live:80/SuyanneQuarto/328364889/1582455.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CRIS 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/qyAftjKfaKjTcip/download/24h.png" group-title="CANAIS 24 HORAS",24H TODO MUNDO ODEIA O CRIS 01
-http://cdn.topk.live:80/SuyanneQuarto/328364889/1582602.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Avenida Beira Rio 1" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/V93n9uF5D4/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beira Rio - Sentido Ponte Trabalhador" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Beira Rio - Sentido Ponte Trabalhador
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/8BJpSobtt9/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque Beira Rio - Bombeiros" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque Beira Rio - Bombeiros
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/jbB74vMesq/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque Beira Rio - Ponte da Bilu" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque Beira Rio - Ponte da Bilu
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/JGWOtljK1n/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Beira Rio Sentido Ponte Bombeiro" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Beira Rio Sentido Ponte Bombeiro
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/oGAFN24WcM/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Ponte Estaida" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Ponte Estaida
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/nUstEoUDyg/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Ponte Maluche" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Ponte Maluche
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/G3e56MCBQ1/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Campo Brusque Frente" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Campo Brusque Frente
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/ayYCthanOH/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Campo Brusque Fundo" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Campo Brusque Fundo
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/3JurfgeS28/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque-Parque das Esculturas" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Parque das Esculturas
+https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/5vMWLsG3rl/s.m3u8
+--------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Tv Max" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Max
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Bons Tempos" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Cine PIX
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Retro Tv
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8

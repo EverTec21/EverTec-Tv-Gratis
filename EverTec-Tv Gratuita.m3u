@@ -20,34 +20,58 @@ https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/ayYCthanOH/
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/3JurfgeS28/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brusque-Parque das Esculturas" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Parque das Esculturas
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/5vMWLsG3rl/s.m3u8
-------------------------------------------A--------------------------------------------------
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Everton Canais",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Everton Canais",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Everton Canais",AgroBrasil TV (720p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Everton Canais",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-------------------------------------------B--------------------------------------------------
+
 #EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais",Band Minas (720p)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais",Bem TV (720p)
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-------------------------------------------C--------------------------------------------------
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Aberta",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Everton Canais",CNN Brasil (1080p)
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Undefined",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-------------------------------------------T--------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Cine PIX
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Retro Tv
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Everton Canais",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Everton Canais",RBC
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-id="TV Sul" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="Everton Canais",Rede TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais",Rede TV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Aberta",Rede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Everton Canais",SBT PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais",SBT SP
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv Max" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Brasil" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Bons Tempos" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Cine PIX
-https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
-------------------------------------------R--------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Retro Tv
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Everton Canais",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Everton Canais",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Everton Canais",TV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Everton Canais",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8

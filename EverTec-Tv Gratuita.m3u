@@ -32,17 +32,17 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais",Band Minas (720p)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Aberta",Band PA
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Everton Canais",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Everton Canais",CNN Brasil (1080p)
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Undefined",Combate Global
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Cine PIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Everton Canais",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Retro Tv

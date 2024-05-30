@@ -76,10 +76,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Everton Canais",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml,https://www.tdtchannels.com/epg/TV.xml,https://i.mjh.nz/PlutoTV/mx.xml"
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal de la Ciudad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal Institucional TV
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="ES CANAIS" group-title="ES CANAIS",RT en Español

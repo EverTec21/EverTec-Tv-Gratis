@@ -2,8 +2,22 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN
 https://cdntv0800.com/espn/index.m3u8?token=9a4a5fdb7eedf05abbb8879f77208f929597f761-1f6c30cccc09c5ca84dabaa12200c022-1717186334-1717182734&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN 2
+https://cdntv0800.com/espn2/index.m3u8?token=ff1b0464f2e27bcfdd270a26bc6cde5938fe10ed-ebcfcdecc5373eca1fa3d26e961d11bb-1717186903-1717183303&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN 3
+https://cdntv0800.com/espn3/index.m3u8?token=933f6842ca75a97e016a010912837d51257594c1-5bcef73b2bf058bb0eade85de872a3a5-1717187079-1717183479&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ELEVEN 1
+https://cdntv0800.com/eleven1/index.m3u8?token=a761692689bf7640fe112040f1e805aa584fef7d-4cd9b67cfeeaab8e686bb1c4706a2d70-1717187182-1717183582&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 1
 https://cdntv0800.com/spt1/index.m3u8?token=95e6c727f6a93985b0b8e66663fd01609b7d83bf-b04206339661d3efac2f150133d90e66-1717186665-1717183065&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 2
+https://cdntv0800.com/spt2/index.m3u8?token=0108ee3a468b5af91ee1f824a756ee4caa24dba7-8fa255d7d6c8b0d9336c2778b12a7886-1717187258-1717183658&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 3
+https://cdntv0800.com/spt3/index.m3u8?token=50f6b1ee5e7a52118f07c459ad1b9279e267a15d-1936bfedceadb38c9d22c20f5e938a80-1717187299-1717183699&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 4
+https://cdntv0800.com/spt4/index.m3u8?token=d763700aa25b3eb3a7fe9ae238700fec7708d043-cf425beb23758554f2b9d22b003b2d1d-1717187338-1717183738&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 5
+https://cdntv0800.com/spt5/index.m3u8?token=7797bad62a246e0fe1360799a9a6ae22b210f5cd-d01ec0c4d7c92bc0cbef33bec71506a9-1717187389-1717183789&remote=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/V93n9uF5D4/s.m3u8

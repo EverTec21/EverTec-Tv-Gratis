@@ -17,6 +17,9 @@ https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/G3e56MCBQ1/
 #EXTINF:-1 tvg-id="" tvg-name="Brusque-Parque das Esculturas" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Parque das Esculturas
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/5vMWLsG3rl/s.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Peruibe Praias" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Peruibe Praias 1
+https://inst-7myp1-srs-qualvision.camerite.services/record/umks4v06g4qu.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Everton Canais BR",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Everton Canais BR",Adesso TV (720p)
@@ -58,6 +61,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais BR",SBT SP
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://appnew.megainfoapp.com/files/1/reedesuper.png" group-title="Everton Canais BR",REDE SUPER
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://appnew.megainfoapp.com/files/1/reedesuper.png" group-title="Everton Canais BR",3ABN KIDS
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Max" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Tv Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8

@@ -1,20 +1,27 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="Brusque-Avenida Beira Rio 1" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",Globo
+https://live-01.edge-unific-tio-sc.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS11bmlmaWMtdGlvLXNjLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNzI2NDUxNCwiaWF0IjoxNzE3MTc4MTE0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjFjMTNjNTNhLTQ4MzgtNDg0Mi1hYTcyLWFkNGZlYzdhMTNlMSIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLWJsdS9wbGF5bGlzdC5tM3U4In0.aPgGj-0blVZb4cdnHzzSMkrVF920tE6IbOS9aSadn73BAfpe_fCtoQbM5hwPoSn86OkZpN8-0jZqD_F08FMtIh7dJT94glsjAbc260kbrIE-nnIm8S5JOE_mXGQYSni7NtCCtYnTPzoGQc3sDq8u1Dbs6gxodgRrxOz6pKWlLGj_xmk89BEhNJ-5_NR8jOrQQDD4lkLO7YPRjcz78FsIsUVciL8fWj0LfDXN4u-DkkHn3xjVIP5wfE66wtGQKN9azjChWNjB5TmvlQwJOzlDYH7nfR44oxmlhGydAp-l48DSrWlbYSDEs78c7XtKw8K40hMJ1aKzwMe_v0nXIdH62A/nu/f(i=2)/globo-blu/globo-blu-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",Futura
+https://live-01.edge-unific-tio-sc.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS11bmlmaWMtdGlvLXNjLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNzI2NDU3MywiaWF0IjoxNzE3MTc4MTczLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjFjMTNjNTNhLTQ4MzgtNDg0Mi1hYTcyLWFkNGZlYzdhMTNlMSIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.RGWMr-q4Eav7RUm9c3l_IyDKSI7yAgO34kbDcOU9OxmNok9-exXpBh-t8KoeSRbd4ZBmuCy99Hq2NfCrGZYeJWxA2XaPwXi3z6XRukdUxR4UJsF0nfD0GV5bM4KEHzk-kkh6VICnHpR8Xj6LjB3MthKKnJQvwnN-XIJ3hNUA7Hd6OhjB3h-nlneWylerWmsMO0DIEwltCRp17iEjjYJhNIP_uSicE9-PwGnI4f1356Ggx62a_gc9z8emenyHwfV-6rolEzs9Vvi7JvjLlfBsqMUqd0KfjSCO3ZA0mJPrQkUvI98XI6Up9lohupQDrPJck9xW6-bs17CYb1yQvzJUeQ/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3092992.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",Malhacao
+https://live-01.edge-unific-tio-sc.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS11bmlmaWMtdGlvLXNjLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxNzI2NDU3MywiaWF0IjoxNzE3MTc4MTczLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjFjMTNjNTNhLTQ4MzgtNDg0Mi1hYTcyLWFkNGZlYzdhMTNlMSIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.RGWMr-q4Eav7RUm9c3l_IyDKSI7yAgO34kbDcOU9OxmNok9-exXpBh-t8KoeSRbd4ZBmuCy99Hq2NfCrGZYeJWxA2XaPwXi3z6XRukdUxR4UJsF0nfD0GV5bM4KEHzk-kkh6VICnHpR8Xj6LjB3MthKKnJQvwnN-XIJ3hNUA7Hd6OhjB3h-nlneWylerWmsMO0DIEwltCRp17iEjjYJhNIP_uSicE9-PwGnI4f1356Ggx62a_gc9z8emenyHwfV-6rolEzs9Vvi7JvjLlfBsqMUqd0KfjSCO3ZA0mJPrQkUvI98XI6Up9lohupQDrPJck9xW6-bs17CYb1yQvzJUeQ/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3092992.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/V93n9uF5D4/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beira Rio - Sentido Ponte Trabalhador" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Beira Rio - Sentido Ponte Trabalhador
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Beira Rio Sentido Ponte Trabalhador
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/8BJpSobtt9/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque Beira Rio - Bombeiros" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque Beira Rio - Bombeiros
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque Beira Rio Bombeiros
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/jbB74vMesq/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque Beira Rio - Ponte da Bilu" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque Beira Rio - Ponte da Bilu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque Beira Rio Ponte da Bilu
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/JGWOtljK1n/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque-Beira Rio Sentido Ponte Bombeiro" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Beira Rio Sentido Ponte Bombeiro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Beira Rio Sentido Ponte Bombeiro
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/oGAFN24WcM/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque-Ponte Estaida" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Ponte Estaida
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Ponte Estaida
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/nUstEoUDyg/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque-Ponte Maluche" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Ponte Maluche
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Ponte Maluche
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/G3e56MCBQ1/s.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brusque-Parque das Esculturas" tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Parque das Esculturas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Parque das Esculturas
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/5vMWLsG3rl/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Peruibe Praias 1
@@ -41,8 +48,18 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Everton Canais BR",Band News HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
 
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/canal-29.png" group-title="Everton Cameras",CANAL 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/central-tv.png" group-title="Everton Canais BR",CENTRAL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png" group-title="Everton Canais BR",CLASSIQUE TV
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",CLASSICOS CINEMA
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-clube-web.jpg" group-title="Everton Canais BR",CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-cultura.webp" group-title="Everton Canais BR",CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Everton Canais BR",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Everton Canais BR",CNN BRASIL HD
@@ -55,6 +72,9 @@ https://r-br.nxtv.com.br/CNN_BR/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais BR",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",EDUCACAO
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Everton Canais BR",Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
@@ -72,6 +92,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2a67a0c02ab0841afbdd8e7623aeae5.webp" group-title="Everton Canais BR",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",NDTV FLORIPA
+https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Everton Canais BR",NEW BRASIL HD
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Everton Canais BR",NEW BRASIL FHD
@@ -80,6 +102,9 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Novo Tempo SD
 http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Otaku Sign
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",SBT PR
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
@@ -127,6 +152,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Everton Canais BR",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/rede-minas.webp" group-title="Everton Canais BR",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="Everton Canais BR",REDE GOSTEI
 https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdyq9R9.png" group-title="Everton Canais BR",REDE RECON
@@ -139,6 +166,8 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Everton Canais BR",REVRI
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/rit-tv.webp" group-title="Everton Canais BR",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Everton Canais BR",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
@@ -158,6 +187,8 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="Everton Canais BR",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tve-rs.webp" group-title="Everton Canais BR",TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp" group-title="Everton Canais BR",Web Tv Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8

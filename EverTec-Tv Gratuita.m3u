@@ -61,6 +61,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais BR",SBT SP
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais BR",SBT TESTE
+blob:https://www.youtube.com/38ff6d1e-6fd1-4455-bb0d-47991ca2d397
 
 #EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://appnew.megainfoapp.com/files/1/reedesuper.png" group-title="Everton Canais BR",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8

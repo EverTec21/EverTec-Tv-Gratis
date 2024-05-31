@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",Globo
-http://cdn.topk.live:80/Everton/120178/407987.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN
+https://cdntv0800.com/espn/index.m3u8?token=9a4a5fdb7eedf05abbb8879f77208f929597f761-1f6c30cccc09c5ca84dabaa12200c022-1717186334-1717182734&remote=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN EXTRA
+https://cdntv0800.com/spt1/index.m3u8?token=95e6c727f6a93985b0b8e66663fd01609b7d83bf-b04206339661d3efac2f150133d90e66-1717186665-1717183065&remote=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/V93n9uF5D4/s.m3u8

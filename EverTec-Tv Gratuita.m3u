@@ -21,163 +21,165 @@ https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/3JurfgeS28/
 #EXTINF:-1 tvg-id="" tvg-name="Brusque-Parque das Esculturas" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Cameras",Brusque-Parque das Esculturas
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/5vMWLsG3rl/s.m3u8
 
-#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Everton Canais",Anime TV
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Everton Canais BR",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Everton Canais",Adesso TV (720p)
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Everton Canais BR",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Everton Canais",AgroBrasil TV (720p)
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Everton Canais BR",AgroBrasil TV (720p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Everton Canais",All Sports (720p)
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Everton Canais BR",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais",Band Minas (720p)
+#EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais BR",Band Minas (720p)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Everton Canais",Band PA
+#EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Everton Canais BR",Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Everton Canais",CNN Brasil (1080p)
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Everton Canais BR",CNN Brasil (1080p)
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais",Combate Global
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais BR",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Cine PIX
+#EXTINF:-1 tvg-id="" tvg-name="Cine PIX" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Cine PIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Everton Canais",ISTV
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Everton Canais BR",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Retro Tv
+#EXTINF:-1 tvg-id="" tvg-name="Retro Tv" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Retro Tv
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Everton Canais",RecordTV
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Everton Canais BR",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Everton Canais",RBC
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-id="TV Sul" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="Everton Canais",Rede TV Sul
+#EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Everton Canais BR",RBC
+http://rbc.directEverton RADIOS.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-id="TV Sul" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="Everton Canais BR",Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais",Rede TV TO
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",Rede TV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Aberta",Rede TV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Everton Canais",SBT PR
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Everton Canais BR",SBT PR
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais",SBT SP
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Everton Canais BR",SBT SP
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Max" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Max
+#EXTINF:-1 tvg-id="" tvg-name="Tv Max" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Tv Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Tv Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tv Bons Tempos" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais",Tv Bons Tempos
+#EXTINF:-1 tvg-id="" tvg-name="Tv Bons Tempos" tvg-logo="https://th.bing.com/th/id/OIP.1lR4SQ2NE6DgY1aChPXovAHaFa?w=735&h=538&rs=1&pid=ImgDetMain" group-title="Everton Canais BR",Tv Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Everton Canais",TV Câmara
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Everton Canais BR",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Everton Canais",TV Cultura PR
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Everton Canais BR",TV Cultura PR
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Everton Canais",TV Paraná Turismo
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Everton Canais BR",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal Institucional TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalInstitucionalTV.jpg" tvg-country="CO" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal Institucional TV
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="ES CANAIS" group-title="ES CANAIS",RT en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="ES CANAIS" group-title="ES CANAIS",DW en Español
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE1.png" group-title="ES CANAIS",La 1
+#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE1.png" group-title="Everton Canais ESP",La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png" group-title="ES CANAIS",La 2
+#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE2.png" group-title="Everton Canais ESP",La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/24HTVE.png" tvg-country="ES" tvg-language="ES CANAIS" group-title="ES NOTICIAS",Canal 24 Horas
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/24HTVE.png" tvg-country="ES" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="ES CANAIS" group-title="ES CANAIS",Señal Colombia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/SenalColombia.png" tvg-country="CO" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="ES CANAIS" group-title="ES CANAIS",TDI Colombia
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDIColombia.jpg" tvg-country="CO" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",America
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/8MDP.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 8 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/8MDP.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 8 Mar del Plata
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",El Trece
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES NOTICIAS",TN
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES NOTICIAS",A24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES NOTICIAS",Cronica HD
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Cronica HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Telemax
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="ES CANAIS" group-title="ES CANAIS",Telesur
+#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" tvg-country="VE" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="ESBC410000577" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TeledeporteTVE.png" group-title="Deportes",Teledeporte
+#EXTINF:-1 tvg-id="ESBC410000577" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TeledeporteTVE.png" group-title="Everton Canais ESP",Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal Rural
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalRural.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ClanTVE.png" group-title="ES INFANTIL",Clan
+#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ClanTVE.png" group-title="Everton RADIOS",Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="ES CANAIS" group-title="ES INFANTIL",Pequeradio TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Everton Canais ESP" group-title="Everton RADIOS",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES MUSICAS",AN24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="ES MUSICAS",AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES MUSICAS",MusicTop
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="ES MUSICAS",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES MUSICAS",Tierramia TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="ES MUSICAS",Tierramia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES MUSICAS",Vorterix
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="ES MUSICAS",Vorterix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="Variedades",Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="Variedades",Net TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="Variedades",TVU La Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVULP.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",TVU La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radios",FM 99.9 Mar del Plata 
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Everton RADIOS",FM 99.9 Mar del Plata 
 https://fm999.info/test/index.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/RadioDisney.jpg" group-title="Radios",Radio Disney Argentina 94.3
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/RadioDisney.jpg" group-title="Everton RADIOS",Radio Disney Argentina 94.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",5RTv
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Camaras de Villa Gesell (Av. 3 y 104)
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Camaras de Villa Gesell (La Pinocha)
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais ESP",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 3 Pinamar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 4 Teleaire San Martin
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/4Teleaire.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 4 Teleaire San Martin
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 9 Multivision
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9MV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 10 Rio Negro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10RN.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 12 Puerto Madryn
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 13 La Rioja
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal22Web.jpg" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 22 Web
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal22Web.jpg" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 22 Web
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal 79 Mar del Plata
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal 79 Mar del Plata
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal Provincial
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal Provincial
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Canal TDC
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Chacra TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Cinco TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CPETV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",CPE TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CPETV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",CPE TV
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5Play.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",F5 Play Miramar
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/F5Play.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",F5 Play Miramar
 https://videostream.shockmedia.com.ar:19360/f5tv2/f5tv2.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Power TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PowerTV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Power TV
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",RTN
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",RTN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="ES CANAIS" group-title="ES CANAIS",Telpin TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Everton Canais ESP" group-title="Everton Canais ESP",Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8

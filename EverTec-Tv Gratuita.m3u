@@ -1,23 +1,21 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN
-https://cdntv0800.com/espn/index.m3u8?token=9a4a5fdb7eedf05abbb8879f77208f929597f761-1f6c30cccc09c5ca84dabaa12200c022-1717186334-1717182734&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN 2
-https://cdntv0800.com/espn2/index.m3u8?token=ff1b0464f2e27bcfdd270a26bc6cde5938fe10ed-ebcfcdecc5373eca1fa3d26e961d11bb-1717186903-1717183303&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ESPN 3
-https://cdntv0800.com/espn3/index.m3u8?token=933f6842ca75a97e016a010912837d51257594c1-5bcef73b2bf058bb0eade85de872a3a5-1717187079-1717183479&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",ELEVEN 1
-https://cdntv0800.com/eleven1/index.m3u8?token=a761692689bf7640fe112040f1e805aa584fef7d-4cd9b67cfeeaab8e686bb1c4706a2d70-1717187182-1717183582&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 1
-https://cdntv0800.com/spt1/index.m3u8?token=95e6c727f6a93985b0b8e66663fd01609b7d83bf-b04206339661d3efac2f150133d90e66-1717186665-1717183065&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 2
-https://cdntv0800.com/spt2/index.m3u8?token=0108ee3a468b5af91ee1f824a756ee4caa24dba7-8fa255d7d6c8b0d9336c2778b12a7886-1717187258-1717183658&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 3
-https://cdntv0800.com/spt3/index.m3u8?token=50f6b1ee5e7a52118f07c459ad1b9279e267a15d-1936bfedceadb38c9d22c20f5e938a80-1717187299-1717183699&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 4
-https://cdntv0800.com/spt4/index.m3u8?token=d763700aa25b3eb3a7fe9ae238700fec7708d043-cf425beb23758554f2b9d22b003b2d1d-1717187338-1717183738&remote=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="WHATS +554798912-8867",SPORT TV 5
-https://cdntv0800.com/spt5/index.m3u8?token=7797bad62a246e0fe1360799a9a6ae22b210f5cd-d01ec0c4d7c92bc0cbef33bec71506a9-1717187389-1717183789&remote=
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="WHATS +554798912-8867",Gospel Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/boas-novas.webp" group-title="Everton Religiosos BR",BOAS NOVAS
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/reedesuper.png" group-title="Everton Religiosos BR",REDE SUPER
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Everton Religiosos BR",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Everton Religiosos BR",Gospel Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Religiosos BR",Novo Tempo SD
+http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Religiosos BR",PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Everton Religiosos BR",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Brusque-Avenida Beira Rio 1
 https://video1.bjnet.com.br/nlSErT0wFBlpMB1ZIdQIOTr4bUHsYB/hls/admin/V93n9uF5D4/s.m3u8
@@ -53,6 +51,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Everton Canais BR",All Sports SD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brusque.webp" group-title="Everton Canais BR",BRUSQUE TV
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais BR",Band Minas SD
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="Everton Canais BR",Band PA
@@ -71,6 +71,10 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-clube-web.jpg" group-title="Everton Canais BR",CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-cultura.webp" group-title="Everton Canais BR",CULTURA
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-cultura.webp" group-title="Everton Canais BR",CULTURA 1
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w472087280.m3u8
+#EXTINF:-1 tvg-logo="https://programacao.tv/imagens/tv-cultura.webp" group-title="Everton Canais BR",CULTURA 2
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Everton Canais BR",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
@@ -87,9 +91,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",EDUCACAO
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="Everton Canais BR",Gospel Movie
-https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Everton Canais BR",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
@@ -112,8 +113,7 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Everton Canais BR",Nova Era TV HD
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Novo Tempo SD
-http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Otaku Sign
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
@@ -148,8 +148,10 @@ https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Everton Canais BR",SBT PARÁ HD
 https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/reedesuper.png" group-title="Everton Canais BR",REDE SUPER
-https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title="Everton Canais BR",RBA (BAND)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/rede-familia.webp" group-title="Everton Canais BR",Rede Familia
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Everton Canais BR",Rede Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Everton Canais BR",Record News
@@ -160,8 +162,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Retro Tv
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Everton Canais BR",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Everton Canais BR",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.programacao.tv/imagens/rede-minas.webp" group-title="Everton Canais BR",REDE MINAS
@@ -170,19 +170,28 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdyq9R9.png" group-title="Everton Canais BR",REDE RECON
 https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Everton Canais BR",REDBULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Everton Canais BR",REDBULL 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",RedeTV
+https://d34hqvk9w7ng50.cloudfront.net/stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",RedeTV HD
+https://d34hqvk9w7ng50.cloudfront.net/stream/index_960x540.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",RedeTV PR
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",Rede TV TO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",RedeTV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",Rede TV RS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="Everton Canais BR",RedeTV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Everton Canais BR",REVRI
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://programacao.tv/imagens/rit-tv.webp" group-title="Everton Canais BR",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Everton Canais BR",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+#EXTINF:-1 tvg-logo="https://televisao.tv/images/secs-tv.webp" group-title="Everton Canais BR",SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c1a76682b2b836e8a777895f1160e5f3.webp" group-title="Everton Canais BR",Top TV Sports
 https://video05.logicahost.com.br/tvsports/tvsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Tv Max
@@ -205,74 +214,8 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp" group-title="Everton Canais BR",Web Tv Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO R&B
-https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO K-Pop
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Folk
-https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Gospel
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Reggae
-https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Rock
-https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO ForrÃ³
-https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Pop
-https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Latina
-https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO EletrÃ´nica
-https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Hip-Hop
-https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Funk
-https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Rock
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Sertanejo
-https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Sertanejo RomÃ¢ntico
-https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Anos 80
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Anos 90
-https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Anos 2000
-https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Pop Nacional
-https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Pop Rock Nacional
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO J-Pop
-https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO RomÃ¢nticas
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Alegria FM
-http://stream.ouveai.com.br:8061/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Itapema FM
-http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Novo Tempo FM
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO AtlÃ¢ntida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Farroupilha FM/AM
-http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Jovem Pan FM
-http://centova6.ciclanohost.com.br:9256/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Eldorado FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS", RADIO Princesa FM
-http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton RADIOS",CULTURA
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ClanTVE.png" group-title="Everton RADIOS", Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 

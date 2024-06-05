@@ -307,7 +307,7 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TDC.png" group-title="Everton Internacionais",Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" troup-title="Everton Internacionais",Chacra TV
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ChacraTV.png" group-title="Everton Internacionais",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CincoTV.png" group-title="Everton Internacionais",Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8

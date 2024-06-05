@@ -21,7 +21,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Everton Religiosos BR",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Balneario Parque Unipraias
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20011.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Balneario Barra Norte
@@ -55,7 +54,6 @@ https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Cameras",Miami - Calle Ocho
 https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.iznoefs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt7902.rc0.edge.basic.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="Everton Canais BR",3ABN KIDS
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",ASTRAL TV
@@ -73,7 +71,6 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Everton Canais BR",All Sports SD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://televisao.tv/images/tv-brusque.webp" group-title="Everton Canais BR",BRUSQUE TV
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Everton Canais BR",Band Minas SD
@@ -82,7 +79,6 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Everton Canais BR",Band News HD
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-
 
 #EXTINF:-1 tvg-logo="https://catve.com/2022/assets/images/catve_amarelo.webp" group-title="Everton Canais BR",Catve2
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
@@ -117,7 +113,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Everton Canais BR",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",EDUCACAO
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
@@ -146,7 +141,6 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Everton Canais BR",Nova Era TV HD
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EverTec21/EverTec-Tv-Gratis/main/Logo%20Everton%20IPTV.png" group-title="Everton Canais BR",Otaku Sign
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
@@ -261,7 +255,6 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ClanTVE.png" group-title="Everton RADIOS", Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/5RTv.png" group-title="Everton Internacionais",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
